@@ -1,0 +1,31 @@
+@media(max-width:600px)
+{
+    .div2{
+        background-color: pink ;
+         
+         height: auto;
+     }
+     .grid1{
+         grid-template-areas: "a a a a a a a a a a a a"
+     }
+     #logo{
+         width: 20px;
+     }
+     .navbar-toggler{
+         border: none;
+     }
+     .form-control{
+         padding:0px 0px 2px 0px;
+     }
+     .btn{
+         padding:0px 15px 0px 15px;
+     }
+     
+ 
+ .dropdown-menu {
+ 
+     font-size: .7rem;
+     
+ }
+}
+    
